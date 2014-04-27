@@ -59,134 +59,134 @@ total_tidy.txt is a tab delimited text file containing the following variables:
 		
 The following 66 columns are all numeric [-1,1] bounded variables. The columns contain averages of 33 mean and 33 standard deviation values of feature signals.
 * tbodyacc-mean()-x
-	Average of mean body acceleration in X direction
+	* Average of mean body acceleration in X direction
 * tbodyacc-mean()-y
-	Average of mean body acceleration in Y direction
+	* Average of mean body acceleration in Y direction
 * tbodyacc-mean()-z
-	Average of mean body acceleration in Z direction
+	* Average of mean body acceleration in Z direction
 * tgravityacc-mean()-x
-	Average of mean gravity acceleration in X direction
+	* Average of mean gravity acceleration in X direction
 * tgravityacc-mean()-y
-	Average of mean gravity acceleration in Y direction
+	* Average of mean gravity acceleration in Y direction
 * tgravityacc-mean()-z
-	Average of mean gravity acceleration in Z direction
+	* Average of mean gravity acceleration in Z direction
 * tbodyaccjerk-mean()-x
-	Average of mean body acceleration Jerk signal in X direction
+	* Average of mean body acceleration Jerk signal in X direction
 * tbodyaccjerk-mean()-y
-	Average of mean body acceleration Jerk signal in Y direction
+	* Average of mean body acceleration Jerk signal in Y direction
 * tbodyaccjerk-mean()-z
-	Average of mean body acceleration Jerk signal in Z direction
+	* Average of mean body acceleration Jerk signal in Z direction
 * tbodygyro-mean()-x
-	Average of mean body gyroscope signal in X direction
+	* Average of mean body gyroscope signal in X direction
 * tbodygyro-mean()-y
-	Average of mean body gyroscope signal in Y direction
+	* Average of mean body gyroscope signal in Y direction
 * tbodygyro-mean()-z
-	Average of mean body gyroscope signal in Z direction
+	* Average of mean body gyroscope signal in Z direction
 * tbodygyrojerk-mean()-x
-	Average of mean body gyroscope Jerk signal in X direction
+	* Average of mean body gyroscope Jerk signal in X direction
 * tbodygyrojerk-mean()-y
-	Average of mean body gyroscope Jerk signal in Y direction
+	* Average of mean body gyroscope Jerk signal in Y direction
 * tbodygyrojerk-mean()-z
-	Average of mean body gyroscope Jerk signal in Z direction
+	* Average of mean body gyroscope Jerk signal in Z direction
 * tbodyaccmag-mean()
-	Average of mean body acceleration magnitude
+	* Average of mean body acceleration magnitude
 * tgravityaccmag-mean()
-	Average of mean gravity acceleration magnitude
+	* Average of mean gravity acceleration magnitude
 * tbodyaccjerkmag-mean()
-	Average of mean body acceleration Jerk magnitude
+	* Average of mean body acceleration Jerk magnitude
 * tbodygyromag-mean()
-	Average of mean body gyroscope magnitude
+	* Average of mean body gyroscope magnitude
 * tbodygyrojerkmag-mean()
-	Average of mean body gyroscope Jerk magnitude
+	* Average of mean body gyroscope Jerk magnitude
 * fbodyacc-mean()-x
-	Average of mean body acceleration frequency in X direction
+	* Average of mean body acceleration frequency in X direction
 * fbodyacc-mean()-y
-	Average of mean body acceleration frequency in Y direction
+	* Average of mean body acceleration frequency in Y direction
 * fbodyacc-mean()-z
-	Average of mean body acceleration frequency in Z direction
+	* Average of mean body acceleration frequency in Z direction
 * fbodyaccjerk-mean()-x
-	Average of mean body acceleration Jerk frequency in X direction
+	* Average of mean body acceleration Jerk frequency in X direction
 * fbodyaccjerk-mean()-y
-	Average of mean body acceleration Jerk frequency in Y direction
+	* Average of mean body acceleration Jerk frequency in Y direction
 * fbodyaccjerk-mean()-z
-	Average of mean body acceleration Jerk frequency in Z direction
+	* Average of mean body acceleration Jerk frequency in Z direction
 * fbodygyro-mean()-x
-	Average of mean body gyroscope frequency signal in X direction
+	* Average of mean body gyroscope frequency signal in X direction
 * fbodygyro-mean()-y
-	Average of mean body gyroscope frequency signal in Y direction
+	* Average of mean body gyroscope frequency signal in Y direction
 * fbodygyro-mean()-z
-	Average of mean body gyroscope frequency signal in Z direction
+	* Average of mean body gyroscope frequency signal in Z direction
 * fbodyaccmag-mean()
-	Average of mean body acceleration frequency magnitude
+	* Average of mean body acceleration frequency magnitude
 * fbodybodyaccjerkmag-mean()
-	Average of mean body acceleration Jerk frequency magnitude
+	* Average of mean body acceleration Jerk frequency magnitude
 * fbodybodygyromag-mean()
-	Average of mean body gyroscope frequency magnitude
+	* Average of mean body gyroscope frequency magnitude
 * fbodybodygyrojerkmag-mean()
-	Average of mean body gyroscope Jerk frequency magnitude
+	* Average of mean body gyroscope Jerk frequency magnitude
 * tbodyacc-std()-x
-	Average of standard deviation of body acceleration in X direction
+	* Average of standard deviation of body acceleration in X direction
 * tbodyacc-std()-y
-	Average of standard deviation of body acceleration in Y direction
+	* Average of standard deviation of body acceleration in Y direction
 * tbodyacc-std()-z
-	Average of standard deviation of body acceleration in Z direction
+	* Average of standard deviation of body acceleration in Z direction
 * tgravityacc-std()-x
-	Average of standard deviation of gravity acceleration in X direction
+	* Average of standard deviation of gravity acceleration in X direction
 * tgravityacc-std()-y
-	Average of standard deviation of gravity acceleration in Y direction
+	* Average of standard deviation of gravity acceleration in Y direction
 * tgravityacc-std()-z
-	Average of standard deviation of gravity acceleration in Z direction
+	* Average of standard deviation of gravity acceleration in Z direction
 * tbodyaccjerk-std()-x
-	Average of standard deviation of body acceleration Jerk signal in X direction
+	* Average of standard deviation of body acceleration Jerk signal in X direction
 * tbodyaccjerk-std()-y
-	Average of standard deviation of body acceleration Jerk signal in Y direction
+	* Average of standard deviation of body acceleration Jerk signal in Y direction
 * tbodyaccjerk-std()-z
-	Average of standard deviation of body acceleration Jerk signal in Z direction
+	* Average of standard deviation of body acceleration Jerk signal in Z direction
 * tbodygyro-std()-x
-	Average of standard deviation of body gyroscope signal in X direction
+	* Average of standard deviation of body gyroscope signal in X direction
 * tbodygyro-std()-y
-	Average of standard deviation of body gyroscope signal in Y direction
+	* Average of standard deviation of body gyroscope signal in Y direction
 * tbodygyro-std()-z
-	Average of standard deviation of body gyroscope signal in Z direction
+	* Average of standard deviation of body gyroscope signal in Z direction
 * tbodygyrojerk-std()-x
-	Average of standard deviation of body gyroscope Jerk signal in X direction
+	* Average of standard deviation of body gyroscope Jerk signal in X direction
 * tbodygyrojerk-std()-y
-	Average of standard deviation of body gyroscope Jerk signal in Y direction
+	* Average of standard deviation of body gyroscope Jerk signal in Y direction
 * tbodygyrojerk-std()-z
-	Average of standard deviation of body gyroscope Jerk signal in Z direction
+	* Average of standard deviation of body gyroscope Jerk signal in Z direction
 * tbodyaccmag-std()
-	Average of standard deviation of body acceleration magnitude
+	* Average of standard deviation of body acceleration magnitude
 * tgravityaccmag-std()
-	Average of standard deviation of gravity acceleration magnitude
+	* Average of standard deviation of gravity acceleration magnitude
 * tbodyaccjerkmag-std()
-	Average of standard deviation of body acceleration Jerk magnitude
+	* Average of standard deviation of body acceleration Jerk magnitude
 * tbodygyromag-std()
-	Average of standard deviation of body gyroscope magnitude
+	* Average of standard deviation of body gyroscope magnitude
 * tbodygyrojerkmag-std()
-	Average of standard deviation of body gyroscope Jerk magnitude
+	* Average of standard deviation of body gyroscope Jerk magnitude
 * fbodyacc-std()-x
-	Average of standard deviation of body acceleration frequency in X direction
+	* Average of standard deviation of body acceleration frequency in X direction
 * fbodyacc-std()-y
-	Average of standard deviation of body acceleration frequency in Y direction
+	* Average of standard deviation of body acceleration frequency in Y direction
 * fbodyacc-std()-z
-	Average of standard deviation of body acceleration frequency in Z direction
+	* Average of standard deviation of body acceleration frequency in Z direction
 * fbodyaccjerk-std()-x
-	Average of standard deviation of body acceleration Jerk frequency in X direction
+	* Average of standard deviation of body acceleration Jerk frequency in X direction
 * fbodyaccjerk-std()-y
-	Average of standard deviation of body acceleration Jerk frequency in Y direction
+	* Average of standard deviation of body acceleration Jerk frequency in Y direction
 * fbodyaccjerk-std()-z
-	Average of standard deviation of body acceleration Jerk frequency in Z direction
+	* Average of standard deviation of body acceleration Jerk frequency in Z direction
 * fbodygyro-std()-x
-	Average of standard deviation of body gyroscope frequency signal in X direction
+	* Average of standard deviation of body gyroscope frequency signal in X direction
 * fbodygyro-std()-y
-	Average of standard deviation of body gyroscope frequency signal in Y direction
+	* Average of standard deviation of body gyroscope frequency signal in Y direction
 * fbodygyro-std()-z
-	Average of standard deviation of body gyroscope frequency signal in Z direction
+	* Average of standard deviation of body gyroscope frequency signal in Z direction
 * fbodyaccmag-std()
-	Average of standard deviation of body acceleration frequency magnitude
+	* Average of standard deviation of body acceleration frequency magnitude
 * fbodybodyaccjerkmag-std()
-	Average of standard deviation of body acceleration Jerk frequency magnitude
+	* Average of standard deviation of body acceleration Jerk frequency magnitude
 * fbodybodygyromag-std()
-	Average of standard deviation of body gyroscope frequency magnitude
+	* Average of standard deviation of body gyroscope frequency magnitude
 * fbodybodygyrojerkmag-std()
-	Average of standard deviation of body gyroscope Jerk frequency magnitude
+	* Average of standard deviation of body gyroscope Jerk frequency magnitude
